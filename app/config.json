@@ -9,8 +9,8 @@
   "smtp": {
     "server": "sandbox.smtp.mailtrap.io",
     "port": 587,
-    "user": "40988ade02550c",
-    "password": "dd79ec7cd9c5f4",
+    "user": "6419a921b17397",
+    "password": "3be7814672684b",
     "sender_email": "Python DataOps <pydataops@example.com>"
   },
   "paths": {
@@ -19,7 +19,7 @@
   },
   "report": {
     "to": "usuario.dmc@gmail.com",
-    "subject": "Sin Nombre - Comisiones Calculadas",
+    "subject": "Wilber - Comisiones Calculadas",
     "body_html": "Estimado(a), <br>Adjunto encontrarás el archivo con las comisiones calculadas.<br>Saludos."
   }
 }
